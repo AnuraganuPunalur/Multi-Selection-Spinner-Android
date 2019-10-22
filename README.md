@@ -45,7 +45,7 @@ Step 2. Add the dependency
 <dependency>
 	    <groupId>com.github.AnuraganuPunalur</groupId>
 	    <artifactId>Multi-Selection-Spinner-Android</artifactId>
-	    <version>Tag</version>
+	    <version>-SNAPSHOT</version>
 	</dependency>
 ```  
 ### You can simply add the MultiSpinner within the layout as shown below,
