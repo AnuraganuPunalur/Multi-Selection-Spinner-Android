@@ -24,7 +24,7 @@ allprojects {
 Step 2. In the app level gradle,
 ```java
 dependencies {
-	        implementation 'com.github.AnuraganuPunalur:Multi-Selection-Spinner-Android:Tag'
+	        implementation 'com.github.AnuraganuPunalur:Multi-Selection-Spinner-Android:-SNAPSHOT'
 	}
 ```  
 ### 2) Via Maven
