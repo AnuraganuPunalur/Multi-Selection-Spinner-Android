@@ -7,8 +7,6 @@ You can set the spinner with and without image.
 
 ![](https://raw.githubusercontent.com/AnuraganuPunalur/Multi-Selection-Spinner-Android/master/Mult-Selection%20Spinner%20Android.gif)
 
-<a href="https://imgflip.com/gif/3e01ne"><img src="https://i.imgflip.com/3e01ne.gif" title="made at imgflip.com"/></a>
-
 ### Implementing this library is pretty easy, just follow the simple steps below.
 
 ### 1) Via Gradle
