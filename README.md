@@ -24,7 +24,7 @@ allprojects {
 Step 2. In the app level gradle,
 ```java
 dependencies {
-	        implementation 'com.github.AnuraganuPunalur:Multi-Selection-Spinner-Android:-SNAPSHOT'
+	            implementation 'com.github.AnuraganuPunalur:Multi-Selection-Spinner-Android:1.0'
 	}
 ```  
 ### 2) Via Maven
@@ -45,7 +45,7 @@ Step 2. Add the dependency
 <dependency>
 	    <groupId>com.github.AnuraganuPunalur</groupId>
 	    <artifactId>Multi-Selection-Spinner-Android</artifactId>
-	    <version>-SNAPSHOT</version>
+	    <version>1.0</version>
 	</dependency>
 ```  
 ### You can simply add the MultiSpinner within the layout as shown below,
